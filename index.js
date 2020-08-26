@@ -14,3 +14,10 @@ function throwFrisbee(dogName, dogBreed) {
   console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
 }
 
+function walkHome(dogName, dogBreed) {
+  console.log(`Walk home with ${dogName} the ${dogBreed}`);
+}
+
+function unleashDog(dogName, dogBreed) {
+  console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
+}
